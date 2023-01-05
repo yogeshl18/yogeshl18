@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogeshl18
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Copmuter Vision projects!
+- 🌱 I’m currently learning GANs
+- 💞️ I’m looking to collaborate on Computer Vision projects!
 - 📫 How to reach me ...
 
 <!---
